@@ -21,7 +21,9 @@
    2. v2ray 脚本 :  备份233blog比较实用的v2 shell脚本
 
 
-      `233blog ： http://lpssblog.tk/v2ray/v2ray.sh`
+      ```
+      233blog ： http://lpssblog.tk/v2ray/v2ray.sh
+      ```
 
 
    3. SSR 脚本 :  备份各大论坛比较实用的SSR shell脚本
