@@ -8,9 +8,15 @@
 
    1. lhei1 rule ： 只备份了shadowrocket的配置，比较实用简单
 
+      ```
+      Surge（阉割版）：https://raw.githubusercontent.com/lhie1/Rules/master/Surge.conf
 
-      `233blog ： http://lpssblog.tk/v2ray/v2ray.sh`
+      Shadowrocket：https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf
 
+      Quantumult_Filter：https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult.conf
+
+      Quantumult_Rejection：https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult_URL.conf
+      ```
 
    2. v2ray 脚本 :  备份233blog比较实用的v2 shell 一键脚本
 
