@@ -18,13 +18,13 @@
       Quantumult_Rejection：https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult_URL.conf
       ```
 
-   2. v2ray 脚本 :  备份233blog比较实用的v2 shell 一键脚本
+   2. v2ray 脚本 :  备份233blog比较实用的v2 shell脚本
 
 
       `233blog ： http://lpssblog.tk/v2ray/v2ray.sh`
 
 
-   3. SSR 脚本 :  备份各大论坛比较实用的SSR shell 一键脚本
+   3. SSR 脚本 :  备份各大论坛比较实用的SSR shell脚本
 
       ```
       妖火马老师一键脚本：http://lpssblog.tk/ssr/ssr.zip
@@ -38,7 +38,7 @@
       mogaiSSR: http://lpssblog.tk/ssr/ssrv3.sh
       ```
   
-   4. 加速器脚本 :  备份各大论坛比较实用的加速器一键脚本
+   4. 加速器脚本 :  备份各大论坛比较实用的加速器脚本
 
       ```
       91锐速破解版：http://lpssblog.tk/speeder/serverspeeder.sh
@@ -46,5 +46,16 @@
       秋水BBR: http://lpssblog.tk/speeder/bbr.sh
 
       魔改BBR：http://lpssblog.tk/speeder/mogaibbr.sh
+      ```
 
+   5. Openvpn脚本 :  备份各大论坛比较实用的流控脚本
+
+      ```
+      http://lpssblog.tk/openvpn/vpns.sh
+
+      http://lpssblog.tk/openvpn/bfy.sh
+
+      http://lpssblog.tk/openvpn/ky.sh
+
+      http://lpssblog.tk/openvpn/ml
       ```
